@@ -2,8 +2,8 @@
 /**
  * main - Entry point
  *
- * Description: This program prints the size of various data types on the computer
- * it is compiled and run on. It uses the `sizeof` operator to determine the size
+ * Description:This program prints the size of various data types on the comp
+ * it is compiled and run on.It uses the `sizeof`operator to determine the size
  * of each data type and displays the results.
  *
  * Return:Always 0 (Success)
